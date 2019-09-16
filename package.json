@@ -36,5 +36,8 @@
       "maintained node versions",
       "not dead"
     ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^4.3.5"
   }
 }
